@@ -1,27 +1,26 @@
 {
-   "files": [   
+   "files":[   
  
     {
          "name": "01. MET HEE-TH-FREE",
          "url": "https://raw.githubusercontent.com/minnersf5/Spkthz/main/TH-AIS.ovpn"
-    }
+    
 
-
-     {
-         "name": "01.1. MET HEE-TH-01-VIP",
-         "url": "https://raw.githubusercontent.com/minnersf5/Spkthz/main/VIPSPKTH1.ovpn"
-     },
-
-     {
-         "name": "01.2. MET HEE-TH-01-AIS-VIP",
-         "url": "https://raw.githubusercontent.com/minnersf5/Spkthz/main/SPKVIPTH01AIS.ovpn"
-      },
 
      
-{
+         "name": "01.1. MET HEE-TH-01-VIP",
+         "url": "https://raw.githubusercontent.com/minnersf5/Spkthz/main/VIPSPKTH1.ovpn"
+    
+
+     
+         "name": "01.2. MET HEE-TH-01-AIS-VIP",
+         "url": "https://raw.githubusercontent.com/minnersf5/Spkthz/main/SPKVIPTH01AIS.ovpn"
+    
+     
+
       "name": "02. MET HEE-TH-02-VIP",
          "url": "https://raw.githubusercontent.com/minnersf5/Spkthz/main/VIPSPKTH2.ovpn"
-      }
+      },
       
 
    ],
