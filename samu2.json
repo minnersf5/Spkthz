@@ -1,6 +1,23 @@
 {
    "files": [   
  
+    {
+         "name": "01. MET HEE-TH-01-TRUE-VIP",
+         "url": "https://raw.githubusercontent.com/minnersf5/Spkthz/main/VIPSPKTH1.ovpn"
+      },
+
+
+      
+    {
+         "name": "01.1 MET HEE-TH-01-DTAC-VIP",
+         "url": "https://raw.githubusercontent.com/minnersf5/Spkthz/main/VIPSPKTH1.ovpn"
+      },
+
+
+{
+      "name": "02. MET HEE-TH-02-VIP",
+         "url": "https://raw.githubusercontent.com/minnersf5/Spkthz/main/VIPSPKTH2.ovpn"
+}
       
 
    ],
